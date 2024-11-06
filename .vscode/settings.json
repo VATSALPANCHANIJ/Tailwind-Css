@@ -1,5 +1,25 @@
 {
     "cSpell.words": [
         "tailwindcss"
-    ]
+    ],
+    "peacock.color": "#172d47",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#23456e",
+        "activityBar.background": "#23456e",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#000000",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#23456e",
+        "statusBar.background": "#172d47",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#23456e",
+        "statusBarItem.remoteBackground": "#172d47",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#172d47",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#172d4799",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    }
 }
